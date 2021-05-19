@@ -19,16 +19,15 @@ class BlogIndex extends React.Component {
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
   
-     1. Musculación y Cardio:
-    <a href="https://calendly.com/moraviapesas/moravia-area-de-musculacion-y-cardio">Musculación y Cardio</a>
+    1. <a href="https://calendly.com/moraviapesas/moravia-area-de-musculacion-y-cardio">Musculación y Cardio</a>
     <br />
-    2. Grupales: <a href="https://calendly.com/moraviagrupales">Grupales</a>
+    2. <a href="https://calendly.com/moraviagrupales">Grupales</a>
     <br />
-    3. HIIT: <a href="https://calendly.com/moraviahiit/moravia-hiit">HIIT</a>
+    3. <a href="https://calendly.com/moraviahiit/moravia-hiit">HIIT</a>
     <br />
-    4.Piscina: <a href="https://calendly.com/moraviapiscina/moravia-piscina">Piscina</a>
+    4.<a href="https://calendly.com/moraviapiscina/moravia-piscina">Piscina</a>
     <br />
-    5. Natación: <a href="https://calendly.com/moraviapiscina/natacion">Natación</a>
+    5. <a href="https://calendly.com/moraviapiscina/natacion">Natación</a>
     <br />
   
         <Bio />
